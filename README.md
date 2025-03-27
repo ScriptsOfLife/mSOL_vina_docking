@@ -46,6 +46,12 @@ You are ready to use python script for forming docking using Autodock Vina
 
 Run the script. That's it !!
 
+Your outputs will be saved in output_docking directory.
+
+First of all, the script prepares ligands using openbabel.
+
+Then these ligands will be docked into binding site of the protein usinf Autodock Vina.
+
 Good luck! I hope you find these materials helpful.
 
 I am working on more tutorial and upload them soon.
