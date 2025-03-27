@@ -3,7 +3,7 @@
 In this tutorial, you will learn to perform Molecular docking with Autodock Vina using python script.
 You need to perform few steps before using this python script for docking.
 
-prerequisite
+Prerequisites\n
 Step 1. Retrieve PDB structure of your protein target from Protein Data Bank (PDB).
 Step 2. Prepare your protein usning UCSF Chimera and Autodock4.
 	a. Analyze the PDB structure and remove heteroatoms that are not important.
